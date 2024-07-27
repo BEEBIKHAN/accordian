@@ -1,6 +1,7 @@
 {
   "name": "accordian",
   "version": "0.1.0",
+  "homepage": "https://beebikhan.github.io/accordian/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
